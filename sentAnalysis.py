@@ -1,4 +1,4 @@
-import pickle5 as pickle
+import pickle
 
 
 def Sentiment_Analysis(headline_list):
