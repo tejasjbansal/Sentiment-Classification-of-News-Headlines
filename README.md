@@ -3,11 +3,6 @@
 The main objective of this project is to sentiment classification of the news headlines of the digital newspaper. And also, the user can see the news of different sections of the newspaper through beautiful user interface. User can see the news of business, sports, National, International and also tech news with the live sentiment classification.
 
 
-
-    1. Read the latest news articles.
-    2. Run and view the Sentiment Analysis of the latest news headlines
-    3. Just view the overall sentiment of the past few hours of news
-
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -40,7 +35,7 @@ or
 python3 app.py
 ````
 ## Live Demo
-URL :
+URL :  https://newssentiment01.herokuapp.com/
 
 ## Thanks!
 
