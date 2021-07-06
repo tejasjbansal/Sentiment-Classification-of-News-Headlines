@@ -1,6 +1,8 @@
 #  Sentiment Classification of News Headlines
 
-Program which scrapes the News from 'abc News', and presents 3 options to the user.
+The main objective of this project is to sentiment classification of the news headlines of the digital newspaper. And also, the user can see the news of different sections of the newspaper through beautiful user interface. User can see the news of business, sports, National, International and also tech news with the live sentiment classification.
+
+
 
     1. Read the latest news articles.
     2. Run and view the Sentiment Analysis of the latest news headlines
