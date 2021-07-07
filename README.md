@@ -37,6 +37,9 @@ python3 app.py
 ## Live Demo
 URL :  https://newssentiment01.herokuapp.com/
 
+## Dataset Kaggel 
+https://www.kaggle.com/therohk/million-headlines
+
 ## Thanks!
 
 Let me know of more updates you'd like to see and also if you see bugs!
